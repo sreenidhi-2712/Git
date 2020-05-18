@@ -9,4 +9,4 @@ One more try
 
 Trying to add time tracking
 
-Checking automatic reindexing at every 8 mints
+Checking automatic reindexing at every 8 mints 
